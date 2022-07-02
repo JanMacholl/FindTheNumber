@@ -1,0 +1,15 @@
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.csproj.AssemblyReference.cache
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.AssemblyInfoInputs.cache
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.AssemblyInfo.cs
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.csproj.CoreCompileInputs.cache
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/bin/Debug/net6.0/FindTheNumber
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/bin/Debug/net6.0/FindTheNumber.deps.json
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/bin/Debug/net6.0/FindTheNumber.runtimeconfig.json
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/bin/Debug/net6.0/FindTheNumber.dll
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/bin/Debug/net6.0/FindTheNumber.pdb
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.dll
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/refint/FindTheNumber.dll
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.pdb
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/FindTheNumber.genruntimeconfig.cache
+/Users/janmacholl/Projects/FindTheNumber/FindTheNumber/obj/Debug/net6.0/ref/FindTheNumber.dll
